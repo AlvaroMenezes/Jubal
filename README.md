@@ -1,4 +1,4 @@
+[![Build Status](https://travis-ci.org/AlvaroMenezes/Jubal.svg?branch=master)](https://travis-ci.org/AlvaroMenezes/Jubal)
 
-![!Travis CI build badge](https://travis-ci.org/alvaromenezes/Jubal.svg?branch=master)
 # Jubal
 Music player

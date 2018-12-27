@@ -1,7 +1,6 @@
 language : android
 sudo : false
 jdk : oraclejdk8
-ROID_BUILD_TOOLS_VERSION = 26.1.1
 
 android :
   components :
